@@ -1,0 +1,13 @@
+Library/
+Temp/
+Build/
+Logs/
+obj/
+*.csproj
+*.sln
+UserSettings/
+App/
+*.appxsym
+*.appx
+*.appxbundle
+*.tgz
